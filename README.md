@@ -1,3 +1,4 @@
+![gif](https://user-images.githubusercontent.com/59870106/111983148-91e9da80-8ae8-11eb-8f02-9d63197955ab.gif)
 # Getting Started with Create React App
 Blog com uma lista de filmes.
 Consumindo uma a Api rest ultilando o conceito de SPA, React com Class component, HTML e CSS

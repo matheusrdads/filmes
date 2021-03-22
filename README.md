@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 Blog com uma lista de filmes.
-Consumindo uma a Api rest ultilando o conceito de SPA, React com Class component, HTML, CSS, e LocalStorage
+Consumindo uma a Api rest ultilando o conceito de SPA, React com Class component, HTML e CSS
+
+https://filmes-matheus.netlify.app
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
